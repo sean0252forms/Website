@@ -10,3 +10,9 @@ link{
 link:hover{
     color: magenta;
 }
+#githubLinks{
+    background-color: blue;
+}
+#githubLinks>a{
+    color: white;
+}
