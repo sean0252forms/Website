@@ -16,3 +16,6 @@ link:hover{
 #githubLinks>a{
     color: white;
 }
+th,td{
+    color: lime;
+}
